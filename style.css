@@ -162,3 +162,22 @@ margin: 10px;
     padding-right: 20px;
     margin: 10px;   
 }
+.third
+{
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+}
+.trd
+{
+    width: 493px;
+    height: 374px;
+    padding-right: 70px;
+}
+.picture
+{
+width: 456px;
+height: 440px;
+padding-right: 50px;
+border-radius: 5px;
+}
